@@ -54,9 +54,8 @@
 
 -->
 
-
 <a href="https://github.com/Rasel120">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasel120&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rasel120" /></p>  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rasel120&show_icons=true&theme=tokyonight&line_height=35"  alt="Rasel120""
+ </p>  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rasel120&show_icons=true&theme=tokyonight&line_height=35"  alt="Rasel120""
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasel120&theme=tokyonight" alt="Rasel120" /></p>
 
