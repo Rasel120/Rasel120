@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Django,React,Docker**
 
-- 👯 I’m looking to collaborate on [Default Auth](https://github.com/Roshankc682/Default-Auth-Django.git)
+- 👯 I’m looking to collaborate on [Default Auth](https://github.com/Rasel120/Default-Auth-Django.git)
 
-- 🤝 I’m looking for help with [JWT Auth](https://github.com/Roshankc682/authectication_with_React_Express_Django.git)
+- 🤝 I’m looking for help with [JWT Auth](https://github.com/Rasel120/authectication_with_React_Express_Django.git)
 
 - 👨‍💻 All of my Porfolio Site <a href="https://codie-portfolio.herokuapp.com/" target="_blank">PortFolio Site</a>
 
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kcroshan682@gmail.com**
 
-- 📄 Know about my experiences [Roshan K K.C Resume.pdf](https://github.com/Roshankc682/Resume_Collection/blob/main/Developer%20Resume.pdf)
+- 📄 Know about my experiences [Roshan K K.C Resume.pdf](https://github.com/Rasel120/Resume_Collection/blob/main/Developer%20Resume.pdf)
 
 - ⚡ Fun fact **I think I Will Go To Mars Soon**
 
