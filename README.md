@@ -13,6 +13,9 @@
 - 📄 All of my projects are available at <a href="https://github.com/Rasel120" target="_blank">gitHub</a>
 
 <!-- 
+- 🔭 I’m currently working on **Django + React**
+
+- 🌱 I’m currently learning **Django,React,Docker**
 
 - 👯 I’m looking to collaborate on [Default Auth](https://github.com/Rasel120/Default-Auth-Django.git)
 
